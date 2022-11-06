@@ -12,3 +12,4 @@
 
 * Загрузка репозитория на локальную систему
 
+![image](https://user-images.githubusercontent.com/117473557/200173471-452d9d49-c2a2-475f-97ed-005e505d3a28.png)
