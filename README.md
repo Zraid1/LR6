@@ -44,4 +44,29 @@
 ![image](https://user-images.githubusercontent.com/117473557/200191507-0e831b90-6821-4b03-acfc-8b912d14a087.png)
 * Создание папки screenshots с последующей загрузкой её в удалённый репозиторий в ветку otchet
 
+![image](https://user-images.githubusercontent.com/117473557/200195323-559e65ca-3bed-4e20-bfe3-8d065307cea4.png)
+* Вывод всех коммитов в формате: сокращённый хэш + дата + имя автора + комментарий
 
+![image](https://user-images.githubusercontent.com/117473557/200195607-5e95c642-986d-4430-a3e4-bdf03d7a98f8.png)
+
+## Лог использованных комманд
+* git config --global user.name
+* git config --global user.email
+* git clone
+* git pull
+* git checkout
+* git log
+* git log --all
+* git merge
+* git add
+* git commit -m
+* git push
+* git branch -d
+* git add
+* git reset --hard HEAD~
+* git branch
+* git push origin
+* git log --pretty=format:%h - %an, %ar : %s
+
+## Вывод
+В ходе лабораторной работы я изучил базовые возможности системы управления версиями, получил опыт работы с Git Api, опыт работы с локальным и удалённым репозиторием
