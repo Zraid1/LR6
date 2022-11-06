@@ -13,3 +13,16 @@
 * Загрузка репозитория на локальную систему
 
 ![image](https://user-images.githubusercontent.com/117473557/200173471-452d9d49-c2a2-475f-97ed-005e505d3a28.png)
+* Загрузка изменений из удалённого репозитория в локальный
+
+![image](https://user-images.githubusercontent.com/117473557/200173599-bc371ea6-4ca8-41de-8045-891300ffb404.png)
+* Вывод последних изменений ветки master
+
+![image](https://user-images.githubusercontent.com/117473557/200173842-c8b0d06f-353b-4af2-9382-b80398557b5c.png)
+* Вывод последних изменений ветки branch1
+
+![image](https://user-images.githubusercontent.com/117473557/200173942-cc960e12-b576-4c5e-9dea-e998f62b05b7.png)
+* Слияние веток с решением конфликта
+
+
+
